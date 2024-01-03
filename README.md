@@ -6,7 +6,13 @@
 
 ## 단톡방 정보들
 
+### Amzaon Web Services
+- [AWS Security Fundamentals : AWS 무료 보안 교육 기초과정](https://explore.skillbuilder.aws/learn/course/external/view/elearning/562/AWS-Security-Fundamentals-Second-Edition-Korean-Na-%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B0%95%EC%9D%98-)
+- [AWS Cloud Practitioner Essentials : AWS 클라우드 전반적인 이해 기초과정](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13522/AWS-Cloud-Practitioner-Essentials-Korean-Na-%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B0%95%EC%9D%98-)
 
+### 프론트엔드 
+- [인터랙티브 개발 공부방법과 진로 가이드 : Interactive Developer 김종민 엔지니어 유튜브 영상](https://www.youtube.com/watch?v=rWGnw-mtvp8)
+  
 ## 책추천
 
 
