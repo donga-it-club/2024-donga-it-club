@@ -1,4 +1,4 @@
-# 2024-donga-it-club
+  # 2024-donga-it-club
 2024년도 동아대 IT 취업 동아리의 활동내역을 정리해 놓은 저장소입니다. 누구나 자유롭게 편집이 가능합니다.
 
 ## 스터디
@@ -6,18 +6,46 @@
 
 ## 단톡방 정보들
 
-### 개발조직문화
-- [회고에 대한 고찰 - KPT 진행의 노하우에 대하여](https://www.moreagile.net/2016/04/kpt.html)
+### 데이터 관련
+- [Data Puzzles : 코딩 테스트 연습 사이트](https://data-puzzles.com/)
+- [초보자를 위한 BigQuery(SQL) 입문 : 인프런 무료 교육](https://www.inflearn.com/course/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B9%85%EC%BF%BC%EB%A6%AC-sql-%EC%9E%85%EB%AC%B8)
+  
+### 백엔드 관련
+
+### 프론트엔드 관련
+- [인터랙티브 개발 공부방법과 진로 가이드 : Interactive Developer 김종민 엔지니어 유튜브 영상](https://www.youtube.com/watch?v=rWGnw-mtvp8)
 
 ### Amzaon Web Services
+- [AWS Skill Builder - 수요가 많은 클라우드 기술을 구축하기 위한 학습 센터](https://explore.skillbuilder.aws/learn)
 - [AWS Security Fundamentals : AWS 무료 보안 교육 기초과정](https://explore.skillbuilder.aws/learn/course/external/view/elearning/562/AWS-Security-Fundamentals-Second-Edition-Korean-Na-%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B0%95%EC%9D%98-)
 - [AWS Cloud Practitioner Essentials : AWS 클라우드 전반적인 이해 기초과정](https://explore.skillbuilder.aws/learn/course/external/view/elearning/13522/AWS-Cloud-Practitioner-Essentials-Korean-Na-%ED%95%9C%EA%B5%AD%EC%96%B4-%EA%B0%95%EC%9D%98-)
+- [AWS 비용 관리 : AWS 비용 관리 자습서](https://aws.amazon.com/ko/getting-started/hands-on/control-your-costs-free-tier-budgets/?nc1=h_ls)
 
-### 프론트엔드 
-- [인터랙티브 개발 공부방법과 진로 가이드 : Interactive Developer 김종민 엔지니어 유튜브 영상](https://www.youtube.com/watch?v=rWGnw-mtvp8)
+
+### AI 관련
+- [Understand and Exploit GenAI With Gartner’s New Impact Radar : 2023까지의 생성형 AI 트렌드](https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar)
+
+### ChatGPT 관련
+- [How to Analyze Financial Statements with ChatGPT Code Interpreter : chatGPT를 통한 기업 재무제표 분석 유튜브 영상](https://www.youtube.com/watch?v=TRaQ04z78Tw)
+- [ChatGPT 를 200% 활용하는 방법! feat. 프롬프트 엔지니어링 : 노마드 코더 유튜브 영상](https://www.youtube.com/watch?v=WRkig3VeRLY)
+
+### 깃허브 관련
+- [코딩속도 200%? 코파일럿 제대로 활용하는 꿀팁! : 노마드 코더 유튜브 영상](https://www.youtube.com/watch?v=xx7Ykh0VpF0)
+
+### 그 외 도움이 될만한 내용들
+- [Professional Programming : 프로그래밍을 위한 책/블로그/웹사이트 등이 정리되어 있는 깃험 리포지토리](https://github.com/charlax/professional-programming)
+- [ntaλbs 님의 블로그](https://ntalbs.github.io/about/)
+- [회고에 대한 고찰 - KPT 진행의 노하우에 대하여 : 회고의 필요성과 방법](https://www.moreagile.net/2016/04/kpt.html)
+- [I wish I started doing this on day 0 of my career as an engineer : 계획하기](https://read.highgrowthengineer.com/p/i-wish-i-started-doing-this-on-day)
+- [회사가 뽑고 싶어하는 개발자 : 이력서, 블로그, 깃허브 팁 등](https://f-lab.kr/blog/developer-growth-strategy)
+- [2024년 개발자 시장 전망 : 한상훈 개발자 유튜브 영상](https://www.youtube.com/watch?v=Aad6XIDOIvo)
 
 
 ## 책추천
+- [데이터 중심 애플리케이션 설계 - 신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 시스템을 지탱하는 핵심 아이디어](https://product.kyobobook.co.kr/detail/S000001766328)
+  
+![image](https://github.com/donga-it-club/2024-donga-it-club/assets/103025358/c9a3c588-cedb-4f88-81ba-d8e84d315ca1)
+
 
 
 ## 세션관련
