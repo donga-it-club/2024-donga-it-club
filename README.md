@@ -6,6 +6,10 @@
 
 ## 단톡방 정보들
 
+### 깃허브 관련
+- [코딩속도 200%? 코파일럿 제대로 활용하는 꿀팁! : 노마드 코더 유튜브 영상](https://www.youtube.com/watch?v=xx7Ykh0VpF0)
+
+
 ### 데이터 관련
 - [Data Puzzles : 코딩 테스트 연습 사이트](https://data-puzzles.com/)
 - [초보자를 위한 BigQuery(SQL) 입문 : 인프런 무료 교육](https://www.inflearn.com/course/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B9%85%EC%BF%BC%EB%A6%AC-sql-%EC%9E%85%EB%AC%B8)
@@ -29,9 +33,6 @@
 - [How to Analyze Financial Statements with ChatGPT Code Interpreter : chatGPT를 통한 기업 재무제표 분석 유튜브 영상](https://www.youtube.com/watch?v=TRaQ04z78Tw)
 - [ChatGPT 를 200% 활용하는 방법! feat. 프롬프트 엔지니어링 : 노마드 코더 유튜브 영상](https://www.youtube.com/watch?v=WRkig3VeRLY)
 
-### 깃허브 관련
-- [코딩속도 200%? 코파일럿 제대로 활용하는 꿀팁! : 노마드 코더 유튜브 영상](https://www.youtube.com/watch?v=xx7Ykh0VpF0)
-
 ### 그 외 도움이 될만한 내용들
 - [Professional Programming : 프로그래밍을 위한 책/블로그/웹사이트 등이 정리되어 있는 깃험 리포지토리](https://github.com/charlax/professional-programming)
 - [ntaλbs 님의 블로그](https://ntalbs.github.io/about/)
@@ -50,6 +51,10 @@
 
 ## 세션관련
 
+### [동아대 AWS IT 취업동아리 오리엔테이션 (24.03.18)](https://github.com/donga-it-club/2024-donga-it-club/assets/103025358/15101c8b-056d-4773-ac98-9d32609086f1) 
+
+- [발표주제] : [대학생을 위한 Working Backwards 구직법](https://bit.ly/donga2024)
+- [발표자] : 아마존 소프트웨어 개발자 [정도현](https://github.com/serithemage) 님
 
 ## 잔디심기 현황
 
