@@ -161,6 +161,9 @@
 - [정민석](https://github.com/200000001) - 백엔드 개발자 지망  
 ![https://github.com/200000001](https://github.com/200000001/200000001/blob/main/github-metrics.svg)
 
+- [유윤지](https://github.com/llcodingll) - 백엔드 개발자 + 데이터 엔지니어 지망  
+![https://github.com/llcodingll](https://github.com/llcodingll/llcodingll/blob/main/github-metrics.svg)
+
 - [박주희]() -  
 !
 
@@ -198,9 +201,6 @@
 !
 
 - [천혜지]() -
-!
-
-- [유윤지]() -
 !
 
 - [백민정]() -
