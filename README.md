@@ -6,6 +6,7 @@
 - [Spring 스터디](https://github.com/llcodingll/Spring_Study-2024-.git) (2024.02.15~)
 - [도커 / 쿠버네티스 스터디] (준비 중)
 - [알고리즘 코딩 테스트 스터디] (준비 중)
+- [AWS 스터디](https://github.com/donga-it-club/2024-AWS-study)
 
 ## 단톡방 정보들
 
