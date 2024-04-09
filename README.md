@@ -4,7 +4,7 @@
 ## 스터디
 - [SQL 스터디](https://marred-willow-1b0.notion.site/2024-WINTER-SQL-4d9a10035e334f1a80fe9551a14e0d2e?pvs=4) (2024.02.02 ~ 03.15)
 - [Spring 스터디](https://github.com/llcodingll/Spring_Study-2024-.git) (2024.02.15~)
-- [도커 / 쿠버네티스 스터디] (준비 중)
+- [도커 / 쿠버네티스 스터디](https://github.com/zzero-o/2024-Docker-Kubernetes-study) (2024.04 ~)
 - [알고리즘 코딩 테스트 스터디](https://github.com/donga-it-club/2024-algorithm-study) (2024.04 ~)
 - [AWS 스터디](https://github.com/donga-it-club/2024-AWS-study) (2024.04 ~)
 
